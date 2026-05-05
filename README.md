@@ -40,7 +40,7 @@ obs-websocket/ # Because why not control OBS from a terminal
 ### What I'm Working On
 
 - **[obs-recording-timer](https://github.com/wodering178/obs-recording-timer)** — Control OBS recording via terminal/remote session with a timer.
-- **[autocap](soon)** - Auto capture websites and save it to folder, support monitoring and reporting purposes.
+- **[autocap](https://github.com/wodering178/autocap.git)** - Auto capture websites and save it to folder, support monitoring and reporting purposes.
 - Learning the ways of **Linux, networking & CI/CD**
 - Exploring cloud platforms & infrastructure tools
 - Automating things that should have been automated yesterday
